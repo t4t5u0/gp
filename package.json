@@ -1,0 +1,25 @@
+{
+    "name": "gp",
+    "displayName": "gp",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "gp",
+            "aliases": ["gp", "pari-gp"],
+            "extensions": [".gp"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "gp",
+            "scopeName": "source.gp",
+            "path": "./syntaxes/gp.tmLanguage.json"
+        }]
+    }
+}
