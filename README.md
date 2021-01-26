@@ -1,3 +1,13 @@
+# pari-pg syntax-highlights
+
+```console
+$ git clone https://github.com/t4t5u0/gp.git
+$ mv ~/.vscode/extensions/ ./gp
+```
+
+言語構成でgpとかを選択する必要があるかも
+
+
 # gp README
 
 This is the README for your extension "gp". After writing up a brief description, we recommend including the following sections.
