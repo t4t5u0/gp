@@ -1,13 +1,16 @@
 # pari-pg syntax-highlights
 
 ```console
-$ git clone https://github.com/t4t5u0/gp.git
-$ mv ~/.vscode/extensions/ ./gp
+$ git clone https://github.com/t4t5u0/pari-gp-syntal-highlight.git
+$ mv ~/.vscode/extensions/ ./pari-gp-syntal-highlight
 ```
+これで拡張機能が読み込まれます．読み込まれない場合は，VSCodeを再起動してください
 
-言語構成でgpとかを選択する必要があるかも
+言語構成でgpとかを選択する必要があるかもしれないです
 
 
+
+↓ write rater
 # gp README
 
 This is the README for your extension "gp". After writing up a brief description, we recommend including the following sections.
